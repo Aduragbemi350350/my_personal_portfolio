@@ -6,12 +6,6 @@ import { twMerge } from "tailwind-merge";
 export const TechStack = () => {
   const stack = [
     {
-      title: "Figma",
-      src: "/images/logos/figma.png",
-
-      className: "h-8 w-8",
-    },
-    {
       title: "Tailwind",
       src: "/images/logos/tailwind.png",
 
@@ -20,12 +14,6 @@ export const TechStack = () => {
     {
       title: "React.js",
       src: "/images/logos/reactjs.png",
-
-      className: "h-10 w-14",
-    },
-    {
-      title: "Next.js",
-      src: "/images/logos/next.png",
 
       className: "h-10 w-14",
     },
